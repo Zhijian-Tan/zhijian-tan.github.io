@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.ustc.edu.cn/'>University of Science and Technology of China</a>. Hefei, Anhui, China
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hello! I’m Zhijian Tan, a passionate biomedical engineering student with a keen interest in photoacoustic computed tomography (PACT)and ultrasound computed tomography (USCT). I received my B.S. degree in Electronic Information Engineering from the Huazhong University of Science and Technology and my M.S. degree in Electronic Information Engineering from the University of Science and Technology of China, where I delved into the fascinating world of medical imaging.
+Hello! I’m Zhijian Tan, a passionate biomedical engineering student with a keen interest in photoacoustic computed tomography (PACT) and ultrasound computed tomography (USCT). I received my B.S. degree in Electronic Information Engineering from the Huazhong University of Science and Technology and my M.S. degree in Electronic Information Engineering from the University of Science and Technology of China, where I delved into the fascinating world of medical imaging.
 
 I’ve developed a GPU-accelerated filtered back-projection (FBP) image reconstruction algorithm for PACT and explored full waveform inversion (FWI) techniques in USCT. These experiences not only sharpened my technical skills but also ignited my enthusiasm for applying innovative solutions to real-world medical challenges.
 
