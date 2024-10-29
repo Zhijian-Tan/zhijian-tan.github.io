@@ -1,10 +1,9 @@
 {
   "basics": {
     "name": "Zhijian Tan",
-    "label": "Research Assistant",
     "image": "",
     "email": "tanzhijian1997@gmail.com",
-    "summary": "A research assistant at the University of Science and Technology of China",
+    "current": "A research assistant at the University of Science and Technology of China",
     "location": {
       "address": "Huisheng Building, No. 5089 Wangjiangxi Road",
       "city": "Hefei",
