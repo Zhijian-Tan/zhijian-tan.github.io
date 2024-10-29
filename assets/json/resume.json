@@ -10,7 +10,7 @@
       "city": "Hefei",
       "countryCode": "CN",
       "region": "Anhui"
-    },
+    }
   },
   
   "education": [
@@ -21,8 +21,8 @@
       "area": "Electronic Information Engineering",
       "studyType": "M.S.",
       "startDate": "2021-09-01",
-      "endDate": "2024-06-20",
-    }
+      "endDate": "2024-06-20"
+    },
     {
       "institution": "Huazhong University of Science and Technology",
       "location": "Wuhan, China",
@@ -30,7 +30,7 @@
       "area": "Electronic Information Engineering",
       "studyType": "B.S.",
       "startDate": "2015-09-01",
-      "endDate": "2019-06-30",
+      "endDate": "2019-06-30"
     }
   ],
     
