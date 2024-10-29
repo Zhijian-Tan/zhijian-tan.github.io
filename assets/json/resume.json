@@ -34,6 +34,30 @@
     }
   ],
     
+  "projects": [
+    {
+      "name": "FWI in USCT",
+      "summary": "Developing the full waveform inversion (FWI) algorithm in ultrasound computed tomography (USCT)",
+      "highlights": ["3D sound speed and attenuation imaging", "High-resolution and quantitative imaging"],
+      "startDate": "2023-01-01",
+      "endDate": "Now"
+    },  
+    {
+      "name": "Ultrafast FBP in PACT",
+      "summary": "Developed a GPU-based ultrafast filtered back-projection (FBP) algorithm in photoacoustic computed tomography (PACT)",
+      "highlights": ["2D reconstruction: 2631 fps", "3D reconstruction: 9 fps"],
+      "startDate": "2021-10-08",
+      "endDate": "2024-06-01"
+    },
+    {
+      "name": "Effects of non-ideal detection geometry in PACT",
+      "summary": "Investigated the effect of the non-ideal detection geometry on image quality in photoacoustic computed tomography (PACT) by modeling the point spread function",
+      "highlights": ["3D detection geometry: sphere, cylinder, plane", "Detector bandwidth and aperture"],
+      "startDate": "2022-06-01",
+      "endDate": "2023-06-01"
+    }
+  ],
+
   "publications": [
     {
       "title": "Ultrafast Filtered Back-Projection for Photoacoustic Computed Tomography",
@@ -47,7 +71,7 @@
       "author": "Chenxi Zhang, Zhijian Tan and Chao Tian*",
       "releaseDate": "2024",
       "journal": "Optics Express",
-      "doi": "10.1364/OE.499039"
+      "doi": "https://doi.org/10.1364/OE.499039"
     }
   ],
   
@@ -103,30 +127,6 @@
         "Numerical solution",
         "Deep learning solution"
       ]
-    }
-  ],
-  
-  "projects": [
-    {
-      "name": "FWI in USCT",
-      "summary": "Developing the full waveform inversion (FWI) algorithm in ultrasound computed tomography (USCT)",
-      "highlights": ["3D sound speed and attenuation imaging", "High-resolution and quantitative imaging"],
-      "startDate": "2023-01-01",
-      "endDate": "Now"
-    },  
-    {
-      "name": "Ultrafast FBP in PACT",
-      "summary": "Developed a GPU-based ultrafast filtered back-projection (FBP) algorithm in photoacoustic computed tomography (PACT)",
-      "highlights": ["2D reconstruction: 2631 fps", "3D reconstruction: 9 fps"],
-      "startDate": "2021-10-08",
-      "endDate": "2024-06-01"
-    },
-    {
-      "name": "Effects of non-ideal detection geometry in PACT",
-      "summary": "Investigated the effect of the non-ideal detection geometry on image quality in photoacoustic computed tomography (PACT) by modeling the point spread function",
-      "highlights": ["3D detection geometry: sphere, cylinder, plane", "Detector bandwidth and aperture"],
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01"
     }
   ]
 }
