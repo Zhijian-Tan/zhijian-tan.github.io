@@ -1,6 +1,6 @@
 ---
 layout: post
-title: neural operator for PDE
+title: Neural Operator for PDE
 date: 2024-10-30
 description: A novel data-driven method for solving PDE
 tags: AI
