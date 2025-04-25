@@ -15,3 +15,18 @@
   annotation={* Corresponding author},
   selected={true},
 }
+
+@article{Liu:25,
+  abbr={BOE},
+  title = {Ultrafast filtered back-projection for photoacoustic computed tomography},
+  author = {Liu#, Songde and Tan#, Zhijian and Shao, Pengfei and Wang, Sheng and Tian*, Chao},
+  abstract = {The filtered back-projection (FBP) algorithm is widely used in photoacoustic computed tomography (PACT) for image reconstruction due to its simplicity and efficiency. Yet, the real-time processing of high-speed PACT data remains challenging for regular FBP implementations. To enhance the reconstruction efficiency of the FBP algorithm, researchers have developed FBP implementations based on the graphics processing units (GPUs). However, existing GPU-accelerated FBP algorithms either sacrifice accuracy for efficiency or are still inefficient for high-speed, real-time PACT imaging. Herein, we report an ultrafast GPU acceleration-based FBP implementation for PACT image reconstruction without sacrificing accuracy. Firstly, the computation complexity of the filtering part of the FBP algorithm is significantly simplified with a pre-computed filtering matrix to enhance filtering efficiency. Secondly, the computation efficiency of the back-projection part of the FBP algorithm is dramatically increased through parallel programming and GPU acceleration. As a result, the proposed FBP implementation takes only 0.38 ms to reconstruct a two-dimensional image of 512\&\#x2009;\&\#x00D7;\&\#x2009;512 pixels, which is 439 times faster than regular FBP implementations. Numerical and experimental results show that the proposed FBP implementation outperforms existing GPU-based FBP implementations in reconstruction accuracy and computation efficiency. To the best of our knowledge, this is the fastest implementation of the FBP algorithm ever reported in PACT. This work is expected to provide an ultrafast and accurate image reconstruction solution for high-speed, real-time PACT imaging.},
+  journal = {Biomedical Optics Express},
+  volume = {16},
+  issue = {2},
+  pages = {362--381},
+  year = {2025},
+  doi = {10.1364/BOE.540622},
+  annotation={* Corresponding author, # Co-first author},
+  selected={true},
+}
